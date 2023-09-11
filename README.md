@@ -1,2 +1,2 @@
 # Hash-message
-Interfaz que encripta y desencripta mensajes.
+Interfaz que encripta y desencripta mensajes. (Python)
